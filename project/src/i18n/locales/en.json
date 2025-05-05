@@ -1,0 +1,104 @@
+{
+  "header": {
+    "about": "About",
+    "courses": "Courses",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover Your Artistic Potential",
+    "description": "Artnova offers professional private art tuition for students of all ages. Explore music, voice, painting, and more in our supportive creative community.",
+    "exploreCourses": "Explore Courses",
+    "contactUs": "Contact Us",
+    "stats": {
+      "experience": "Years Experience",
+      "students": "Successful Students",
+      "programs": "Specialized Programs",
+      "tutors": "Professional Tutors"
+    }
+  },
+  "about": {
+    "title": "About Artnova",
+    "description": "Artnova is a premier private art tuition community dedicated to nurturing creativity and artistic excellence in students of all ages. Our personalized approach ensures each student receives the guidance they need to thrive.",
+    "features": {
+      "guitar": {
+        "title": "Guitar Lessons",
+        "description": "Master guitar techniques from basics to advanced levels with our experienced instructors."
+      },
+      "vocal": {
+        "title": "Vocal Coaching",
+        "description": "Develop your unique voice and performance skills through personalized vocal training."
+      },
+      "painting": {
+        "title": "Painting Classes",
+        "description": "Explore various painting styles and techniques using different mediums and approaches."
+      },
+      "technology": {
+        "title": "Music Technology",
+        "description": "Learn music production, digital audio workstations, and sound design fundamentals."
+      }
+    },
+    "philosophy": {
+      "title": "Our Teaching Philosophy",
+      "description1": "At Artnova, we believe that every student has unique creative potential waiting to be discovered. Our teaching philosophy combines technical excellence with creative freedom, allowing students to develop strong foundational skills while expressing their individual artistic voice.",
+      "description2": "Our structured yet flexible curriculum adapts to each student's pace and interests, ensuring meaningful progress and sustained motivation. We create a supportive community where students feel encouraged to take creative risks and grow."
+    },
+    "imageAlt": "Art tutor teaching student"
+  },
+  "courses": {
+    "title": "Our Courses",
+    "description": "Discover our range of specialized artistic programs designed for students of all ages and skill levels. Each course is taught by experienced professionals passionate about nurturing talent.",
+    "guitar": {
+      "title": "Guitar Mastery",
+      "description": "From basic chords to complex fingerpicking, develop your guitar skills with our comprehensive lessons."
+    },
+    "vocal": {
+      "title": "Vocal Performance",
+      "description": "Find your unique voice and build confidence with personalized vocal coaching and performance techniques."
+    },
+    "painting": {
+      "title": "Painting & Drawing",
+      "description": "Explore various visual art techniques from sketching and watercolor to oil painting and mixed media."
+    },
+    "technology": {
+      "title": "Music Technology",
+      "description": "Learn digital audio production, electronic music creation, and sound engineering fundamentals."
+    }
+  },
+  "gallery": {
+    "title": "Student Gallery",
+    "description": "Explore moments from our classes, student performances, and creative works. This gallery showcases the artistic journey of our community.",
+    "categories": {
+      "all": "all",
+      "music": "music",
+      "painting": "painting",
+      "performances": "performances"
+    },
+    "images": {
+      "guitarLesson": "Guitar lesson",
+      "oilPaintingSession": "Oil painting session",
+      "musicTechnology": "Music technology lesson",
+      "vocalPerformance": "Vocal performance",
+      "pencilDrawing": "Pencil drawing session",
+      "studentConcert": "Student concert"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have questions about our courses or want to schedule a trial lesson? Reach out to us through any of these channels and we'll get back to you promptly.",
+    "methods": {
+      "email": {
+        "title": "Email Us",
+        "value": "info@artnova.edu"
+      },
+      "telegram": {
+        "title": "Telegram",
+        "value": "@ArtnovaTuition"
+      },
+      "instagram": {
+        "title": "Instagram",
+        "value": "@artnova_official"
+      }
+    }
+  }
+}
